@@ -489,3 +489,23 @@ hide: false
 src: ./pages/6-4.md
 hide: false
 ---
+
+---
+src: ./pages/6-5.md
+hide: false
+---
+
+---
+src: ./pages/7-0-what-is-zk.md
+hide: false
+---
+
+---
+src: ./pages/7-1.md
+hide: false
+---
+
+---
+src: ./pages/8-0-layer2-classify.md
+hide: false
+---
