@@ -3,4 +3,4 @@ layout: center
 class: text-center
 ---
 
-# Why do we need Layer2?
+# 为什么会有 Layer2?
