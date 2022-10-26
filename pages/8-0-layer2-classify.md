@@ -8,7 +8,7 @@ image: https://source.unsplash.com/collection/94734566/1920x1080
     - Optimism
     - Arbitrum
 - ZK Rollup
-    - [ZKSynch](https://zksync.io/)
+    - [ZKSync](https://zksync.io/)
     - [Scroll](https://scroll.io/)
     - [Hermz](https://polygon.technology/solutions/polygon-hermez/)
     - [Stark network](https://stark.network/)
